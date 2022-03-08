@@ -1,3 +1,7 @@
 # neopixel
-# download thonny from https://thonny.org/
-![image](https://user-images.githubusercontent.com/18620718/157167011-068b2217-c983-4b4e-abbc-b08b46dd1f51.png)
+1. download thonny from https://thonny.org/
+
+2. connect the board while holding the bootloader button, go to Tools -> Options -> Intepreter -> "Install and Update Firmware"
+
+3. Upload the code
+
